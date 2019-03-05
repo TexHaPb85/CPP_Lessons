@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1551781926 source:c:\users\user\desktop\репетиторство\c++labs\labs1-4\main.cpp
+
+1551782229 source:c:\users\user\desktop\репетиторство\c++labs\labs1-4\lab1loops.cpp
+	<iostream>
+	<math.h>
+
+1551782252 source:c:\users\user\desktop\репетиторство\c++labs\labs1-4\lab2arrays.cpp
+	<iostream>
+	<stdlib.h>
+
